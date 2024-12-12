@@ -13,9 +13,9 @@ tdfs = []
 print("Starting scrape of all NHL seasons via Natural Stat Trick...")
 
 for i in range(0,len(seasons)):
-    dfs.append(NST_Scrape.NSTSkaterScrape(seasons[i]))
-    bio.append(NST_Scrape.NSTBioScrape(seasons[i]))
-    tdfs.append(NST_Scrape.NSTTeamScrape(seasons[i]))
+    dfs.append(NST_Scrape.SkaterScrape(seasons[i]))
+    bio.append(NST_Scrape.BioScrape(seasons[i]))
+    tdfs.append(NST_Scrape.TeamScrape(seasons[i]))
 
 skaters = pd.concat(dfs)
 bios = pd.concat(bio)
@@ -36,17 +36,17 @@ sh = gc.open("WSBA - NHL 5v5 Shooting Metrics Public v1.0")
 sh.values_update(
     "Live Skaters",
     params={'valueInputOption': 'USER_ENTERED'},
-    body={'values': list(csv.reader(open('SkaterExport.csv')))}
+    body={'values': list(csv.reader(open('Export/SkaterExport.csv')))}
 )
 sh.values_update(
     "Live Bios",
     params={'valueInputOption': 'USER_ENTERED'},
-    body={'values': list(csv.reader(open('BiosExport.csv')))}
+    body={'values': list(csv.reader(open('Export/BiosExport.csv')))}
 )
 sh.values_update(
     "Live Teams",
     params={'valueInputOption': 'USER_ENTERED'},
-    body={'values': list(csv.reader(open('TeamsExport.csv')))}
+    body={'values': list(csv.reader(open('Export/TeamsExport.csv')))}
 )
 
 date = datetime.datetime.now()

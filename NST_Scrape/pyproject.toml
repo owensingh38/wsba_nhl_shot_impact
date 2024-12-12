@@ -1,6 +1,6 @@
 [project]
 name = "NST_Scrape"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Owen Singh", email="owenbksingh@gmail.com" },
 ]
@@ -14,4 +14,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/owensingh38/nst_scrape/"
+Homepage = "https://github.com/owensingh38/wsba_nhl_shot_impact/"
