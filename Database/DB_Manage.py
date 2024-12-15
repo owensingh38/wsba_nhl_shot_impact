@@ -4,7 +4,16 @@ import gspread
 res = input("What action would you like to perform? Press R to retrieve the DB or press U to update it...")
 res.lower()
 
+if res.lower() != 'r':
+    if res.lower() != 'u': 
+        print("Invalid Response.")
+
 if res.lower() == 'r' or 'u':
+    if res.lower() == "u":
+        print("Upload not implemented yet!!!")
+
+    print("Retreiving Database...")
+
     gc = gspread.oauth()
 
     sh = gc.open("WSBA - NHL 5v5 Shooting Metrics Public v1.0")
@@ -21,5 +30,4 @@ if res.lower() == 'r' or 'u':
     bios.to_csv("C:\\Users\\owenb\\OneDrive\\Desktop\\Owen\\Python Projects\\Hockey Analytics\\WSBA_NHL_Shot\\wsba_nhl_shot_impact\\Database\\BiosDB.csv",index=False)
     teams.to_csv("C:\\Users\\owenb\\OneDrive\\Desktop\\Owen\\Python Projects\\Hockey Analytics\\WSBA_NHL_Shot\\wsba_nhl_shot_impact\\Database\\TeamsDB.csv",index=False)
 
-    if res.lower() == "u":
-        print("Not implemented yet!!!")
+    
