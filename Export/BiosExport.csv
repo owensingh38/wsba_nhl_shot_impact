@@ -1,5 +1,5 @@
 Player,Season,Team,Position,ID,Age,Date of Birth,Birth City,Birth State/Province,Birth Country,Nationality,Height (in),Weight (lbs),Draft Year,Draft Team,Draft Round,Round Pick
-A.J. Greer,24-25,FLA,L,A.J. Greer24-25FLA,27.0,1996-12-14,Joliette,QC,CAN,CAN,75.0,208.0,2015.0,COL,2.0,9.0
+A.J. Greer,24-25,FLA,L,A.J. Greer24-25FLA,28.0,1996-12-14,Joliette,QC,CAN,CAN,75.0,208.0,2015.0,COL,2.0,9.0
 Aaron Ekblad,24-25,FLA,D,Aaron Ekblad24-25FLA,28.0,1996-02-07,Windsor,ON,CAN,CAN,76.0,215.0,2014.0,FLA,1.0,1.0
 Aatu Raty,24-25,VAN,C,Aatu Raty24-25VAN,22.0,2002-11-14,Oulu,,FIN,FIN,74.0,190.0,2021.0,NYI,2.0,20.0
 Adam Boqvist,24-25,FLA,D,Adam Boqvist24-25FLA,24.0,2000-08-15,Falun,,SWE,SWE,72.0,182.0,2018.0,CHI,1.0,8.0
@@ -74,7 +74,7 @@ Ben Hutton,24-25,VGK,D,Ben Hutton24-25VGK,31.0,1993-04-20,Brockville,ON,CAN,CAN,
 Ben Jones,24-25,MIN,C,Ben Jones24-25MIN,25.0,1999-02-26,Waterloo,ON,CAN,CAN,72.0,187.0,2017.0,VGK,7.0,3.0
 Ben Meyers,24-25,SEA,C,Ben Meyers24-25SEA,26.0,1998-11-15,DELANO,MN,USA,USA,71.0,194.0,,,,
 Blake Coleman,24-25,CGY,C,Blake Coleman24-25CGY,33.0,1991-11-28,Plano,TX,USA,USA,71.0,199.0,2011.0,N.J,3.0,14.0
-Blake Lizotte,24-25,PIT,C,Blake Lizotte24-25PIT,26.0,1997-12-13,Lindstrom,MN,USA,USA,69.0,170.0,,,,
+Blake Lizotte,24-25,PIT,C,Blake Lizotte24-25PIT,27.0,1997-12-13,Lindstrom,MN,USA,USA,69.0,170.0,,,,
 Bo Horvat,24-25,NYI,C,Bo Horvat24-25NYI,29.0,1995-04-05,London,ON,CAN,CAN,72.0,215.0,2013.0,VAN,1.0,9.0
 Bobby Brink,24-25,PHI,R,Bobby Brink24-25PHI,23.0,2001-07-08,Minnetonka,MN,USA,USA,68.0,166.0,2019.0,PHI,2.0,3.0
 Bobby McMann,24-25,TOR,C,Bobby McMann24-25TOR,28.0,1996-06-15,"Wainwright, AB",AB,CAN,CAN,74.0,208.0,,,,
@@ -262,7 +262,7 @@ Isaak Phillips,24-25,CHI,D,Isaak Phillips24-25CHI,23.0,2001-09-28,Barrie,ON,CAN,
 Isac Lundestrom,24-25,ANA,C,Isac Lundestrom24-25ANA,25.0,1999-11-06,Gallivare,,SWE,SWE,72.0,193.0,2018.0,ANA,1.0,23.0
 Isaiah George,24-25,NYI,D,Isaiah George24-25NYI,20.0,2004-02-15,,,CAN,,73.0,196.0,2022.0,NYI,4.0,1.0
 Isak Rosen,24-25,BUF,R,Isak Rosen24-25BUF,21.0,2003-03-15,Solna,,SWE,SWE,71.0,156.0,2021.0,BUF,1.0,14.0
-Ivan Barbashev,24-25,VGK,C,Ivan Barbashev24-25VGK,28.0,1995-12-14,Moscow,,RUS,RUS,73.0,195.0,2014.0,STL,2.0,3.0
+Ivan Barbashev,24-25,VGK,C,Ivan Barbashev24-25VGK,29.0,1995-12-14,Moscow,,RUS,RUS,73.0,195.0,2014.0,STL,2.0,3.0
 Ivan Ivan,24-25,COL,C,Ivan Ivan24-25COL,22.0,2002-08-20,,,CZE,,72.0,190.0,,,,
 Ivan Miroshnichenko,24-25,WSH,L,Ivan Miroshnichenko24-25WSH,20.0,2004-02-04,,,RUS,,73.0,185.0,2022.0,WSH,1.0,20.0
 Ivan Provorov,24-25,CBJ,D,Ivan Provorov24-25CBJ,27.0,1997-01-13,Yaroslavl,,RUS,RUS,73.0,201.0,2015.0,PHI,1.0,7.0
@@ -390,6 +390,7 @@ Keegan Kolesar,24-25,VGK,R,Keegan Kolesar24-25VGK,27.0,1997-04-08,Brandon,MB,CAN
 Kent Johnson,24-25,CBJ,C,Kent Johnson24-25CBJ,22.0,2002-10-18,Port Moody,BC,CAN,CAN,72.0,175.0,2021.0,CBJ,1.0,5.0
 Kevin Bahl,24-25,CGY,D,Kevin Bahl24-25CGY,24.0,2000-06-27,New Westminster,BC,CAN,CAN,78.0,230.0,,,,
 Kevin Fiala,24-25,L.A,L,Kevin Fiala24-25L.A,28.0,1996-07-22,St. Gallen,,CHE,CHE,70.0,204.0,2014.0,NSH,1.0,11.0
+Kevin Gravel,24-25,NSH,D,Kevin Gravel24-25NSH,32.0,1992-03-06,Kingsford,MI,USA,USA,76.0,205.0,2010.0,L.A,5.0,28.0
 Kevin Hayes,24-25,PIT,R,Kevin Hayes24-25PIT,32.0,1992-05-08,Dorchester,MA,USA,USA,77.0,216.0,2010.0,CHI,1.0,24.0
 Kevin Korchinski,24-25,CHI,D,Kevin Korchinski24-25CHI,20.0,2004-06-21,Saskatoon,SK,CAN,CAN,73.0,185.0,2022.0,CHI,1.0,7.0
 Kevin Labanc,24-25,CBJ,R,Kevin Labanc24-25CBJ,29.0,1995-12-12,Brooklyn,NY,USA,USA,71.0,185.0,2014.0,S.J,6.0,21.0
@@ -414,6 +415,7 @@ Leon Draisaitl,24-25,EDM,C,Leon Draisaitl24-25EDM,29.0,1995-10-27,Cologne,,DEU,D
 Liam Foudy,24-25,NYI,C,Liam Foudy24-25NYI,24.0,2000-02-04,Toronto,ON,CAN,CAN,74.0,188.0,2018.0,CBJ,1.0,18.0
 Liam O'Brien,24-25,UTA,C,Liam O'Brien24-25UTA,30.0,1994-07-29,Halifax,NS,CAN,CAN,73.0,213.0,,,,
 Liam Ohgren,24-25,MIN,L,Liam Ohgren24-25MIN,20.0,2004-01-28,,,SWE,,72.0,187.0,2022.0,MIN,1.0,19.0
+Lian Bichsel,24-25,DAL,D,Lian Bichsel24-25DAL,20.0,2004-05-18,,,SUI,,78.0,233.0,2022.0,DAL,1.0,18.0
 Logan Cooley,24-25,UTA,C,Logan Cooley24-25UTA,20.0,2004-05-04,Pittsburgh,PA,USA,USA,70.0,174.0,,,,
 Logan Mailloux,24-25,MTL,D,Logan Mailloux24-25MTL,21.0,2003-04-15,,,CAN,,75.0,220.0,2021.0,MTL,1.0,31.0
 Logan O'Connor,24-25,COL,R,Logan O'Connor24-25COL,28.0,1996-08-14,Missouri City,TX,USA,USA,72.0,175.0,,,,
@@ -639,7 +641,7 @@ Ryan Shea,24-25,PIT,D,Ryan Shea24-25PIT,27.0,1997-02-11,Milton,MA,USA,USA,74.0,2
 Ryan Strome,24-25,ANA,C,Ryan Strome24-25ANA,31.0,1993-07-11,Mississauga,ON,CAN,CAN,73.0,191.0,2011.0,NYI,1.0,5.0
 Ryan Suter,24-25,STL,D,Ryan Suter24-25STL,39.0,1985-01-21,Madison,WI,USA,USA,73.0,205.0,2003.0,NSH,1.0,7.0
 Ryan Winterton,24-25,SEA,C,Ryan Winterton24-25SEA,21.0,2003-09-04,Markham,ON,CAN,CAN,74.0,175.0,2021.0,SEA,3.0,3.0
-Ryker Evans,24-25,SEA,D,Ryker Evans24-25SEA,22.0,2001-12-13,Calgary,AB,CAN,CAN,71.0,189.0,2021.0,SEA,2.0,3.0
+Ryker Evans,24-25,SEA,D,Ryker Evans24-25SEA,23.0,2001-12-13,Calgary,AB,CAN,CAN,71.0,189.0,2021.0,SEA,2.0,3.0
 Sam Bennett,24-25,FLA,C,Sam Bennett24-25FLA,28.0,1996-06-20,Holland Landing,ON,CAN,CAN,73.0,195.0,2014.0,CGY,1.0,4.0
 Sam Carrick,24-25,NYR,C,Sam Carrick24-25NYR,32.0,1992-02-04,Markham,ON,CAN,CAN,72.0,200.0,2010.0,TOR,5.0,24.0
 Sam Colangelo,24-25,ANA,R,Sam Colangelo24-25ANA,22.0,2001-12-26,Stoneham,MA,USA,USA,74.0,205.0,,,,
@@ -664,6 +666,7 @@ Sean Walker,24-25,CAR,D,Sean Walker24-25CAR,30.0,1994-11-13,Keswick,ON,CAN,CAN,7
 Sebastian Aho,24-25,CAR,C,Sebastian Aho24-25CAR,27.0,1997-07-26,Rauma,,FIN,FIN,72.0,176.0,2015.0,CAR,2.0,5.0
 Seth Jarvis,24-25,CAR,C,Seth Jarvis24-25CAR,22.0,2002-02-01,Winnipeg,MB,CAN,CAN,70.0,175.0,2020.0,CAR,1.0,13.0
 Seth Jones,24-25,CHI,D,Seth Jones24-25CHI,30.0,1994-10-03,Arlington,TX,USA,USA,76.0,213.0,2013.0,NSH,1.0,4.0
+Shakir Mukhamadullin,24-25,S.J,D,Shakir Mukhamadullin24-25S.J,22.0,2002-01-10,,,RUS,,76.0,178.0,2020.0,N.J,1.0,20.0
 Shane Bowers,24-25,N.J,C,Shane Bowers24-25N.J,25.0,1999-07-30,Halifax,NS,CAN,CAN,74.0,186.0,2017.0,OTT,1.0,28.0
 Shane Pinto,24-25,OTT,C,Shane Pinto24-25OTT,24.0,2000-11-12,Franklin Square,NY,USA,USA,75.0,201.0,2019.0,OTT,2.0,1.0
 Shane Wright,24-25,SEA,C,Shane Wright24-25SEA,20.0,2004-01-05,Burlington,ON,CAN,CAN,72.0,192.0,2022.0,SEA,1.0,4.0
@@ -677,6 +680,7 @@ Simon Nemec,24-25,N.J,D,Simon Nemec24-25N.J,20.0,2004-02-15,Liptovsky Mikulas,,S
 Sonny Milano,24-25,WSH,L,Sonny Milano24-25WSH,28.0,1996-05-12,Massapequa,NY,USA,USA,72.0,194.0,2014.0,CBJ,1.0,16.0
 Stefan Noesen,24-25,N.J,R,Stefan Noesen24-25N.J,31.0,1993-02-12,Plano,TX,USA,USA,73.0,205.0,2011.0,OTT,1.0,21.0
 Steven Lorentz,24-25,TOR,C,Steven Lorentz24-25TOR,28.0,1996-04-13,Kitchener,ON,CAN,CAN,76.0,206.0,2015.0,CAR,7.0,5.0
+Steven Santini,24-25,T.B,D,Steven Santini24-25T.B,29.0,1995-03-07,Bronxville,NY,USA,USA,74.0,209.0,2013.0,N.J,2.0,12.0
 Steven Stamkos,24-25,NSH,C,Steven Stamkos24-25NSH,34.0,1990-02-07,Markham,ON,CAN,CAN,72.0,182.0,2008.0,T.B,1.0,1.0
 T.J. Tynan,24-25,COL,C,T.J. Tynan24-25COL,32.0,1992-02-25,Orland Park,IL,USA,USA,68.0,165.0,2011.0,CBJ,3.0,5.0
 TJ Brodie,24-25,CHI,D,TJ Brodie24-25CHI,34.0,1990-06-07,Chatham,ON,CAN,CAN,74.0,187.0,2008.0,CGY,4.0,23.0
@@ -738,7 +742,7 @@ Ville Heinola,24-25,WPG,D,Ville Heinola24-25WPG,23.0,2001-02-03,Honkajoki,,FIN,F
 Vince Dunn,24-25,SEA,D,Vince Dunn24-25SEA,28.0,1996-10-29,Mississauga,ON,CAN,CAN,72.0,200.0,2015.0,STL,2.0,26.0
 Vincent Desharnais,24-25,VAN,D,Vincent Desharnais24-25VAN,28.0,1996-05-29,Laval,QC,CAN,CAN,78.0,215.0,2016.0,EDM,7.0,2.0
 Vincent Trocheck,24-25,NYR,C,Vincent Trocheck24-25NYR,31.0,1993-07-11,Pittsburgh,PA,USA,USA,71.0,184.0,2011.0,FLA,3.0,3.0
-Vladimir Tarasenko,24-25,DET,R,Vladimir Tarasenko24-25DET,32.0,1991-12-13,Yaroslavl,,RUS,RUS,73.0,228.0,2010.0,STL,1.0,16.0
+Vladimir Tarasenko,24-25,DET,R,Vladimir Tarasenko24-25DET,33.0,1991-12-13,Yaroslavl,,RUS,RUS,73.0,228.0,2010.0,STL,1.0,16.0
 Vladislav Gavrikov,24-25,L.A,D,Vladislav Gavrikov24-25L.A,29.0,1995-11-21,Yaroslavl,,RUS,RUS,75.0,221.0,2015.0,CBJ,6.0,8.0
 Vladislav Kolyachonok,24-25,UTA,D,Vladislav Kolyachonok24-25UTA,23.0,2001-05-26,Minsk,,BLR,BLR,73.0,193.0,2019.0,FLA,2.0,21.0
 Vladislav Namestnikov,24-25,WPG,C,Vladislav Namestnikov24-25WPG,32.0,1992-11-22,Zhukovskiy,,RUS,RUS,72.0,179.0,2011.0,T.B,1.0,27.0
